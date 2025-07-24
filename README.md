@@ -47,8 +47,9 @@ The system works as follows:
 5. **IFTTT Services** are triggered if speed exceeds thresholds.
 
 ---
+## 🖼️ Sensor System Image
 
-> 🖼️ ![Sensor System Image](Images/sample.jpg)
+ ![Sensor System Image](Images/sample.jpg)
 
 ---
 
