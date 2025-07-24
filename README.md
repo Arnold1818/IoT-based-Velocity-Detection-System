@@ -46,7 +46,9 @@ The system works as follows:
 4. **NodeMCU** transmits the data over Wi-Fi.
 5. **IFTTT Services** are triggered if speed exceeds thresholds.
 
-> 🖼️ *(image)*
+---
+
+> 🖼️ ![Sensor System Image](Images/sample.jpg)
 
 ---
 
