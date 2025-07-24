@@ -83,3 +83,9 @@ The system works as follows:
 
 ## 📁 Project Structure
 
+- `Codes/` – Arduino & NodeMCU code files  
+- `Diagrams/` – Circuit and system diagrams  
+- `Docs/` – Project Report  
+- `Images/` – Device Samples  
+- `LICENSE.md` – License information  
+- `README.md` – Project overview
